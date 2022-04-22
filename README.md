@@ -1,4 +1,4 @@
-# BrainTumorDetection
+# Brain tumor detection
 
 **Tools**|**Link**
 :-----:|:-----:
